@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-la-sombra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión en la sombra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-la-sombra/) |
+| **Get License** | [Get License For Pasión en la sombra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-la-sombra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3507)
 
 ---
 
