@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión en la sombra
+
+This log tracks the cryptographic history and versioning for the song **Pasión en la sombra** (pasion-en-la-sombra).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:29:50.482993 | `v1` | `6c03d31071c672f2d95e1dfa375216ebf4bafac94c2050a142f77d2ae0c55e9c` | `87dec2009ed17939451663642407b4ee0a66321c2232a02e3f48d1793cfebc0f` | `2026-06-17_pasion-en-la-sombra-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
