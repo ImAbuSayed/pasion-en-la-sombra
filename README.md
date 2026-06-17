@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-la-sombra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Pasión en la sombra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-la-sombra/) |
+| **Get License** | [Get License For Pasión en la sombra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-la-sombra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ella tiene ese flow que me quita la razón
+> Caminando por Madrid, robando mi atención
+> Es mi locura de noche, mi dulce perdición
+> Ven, acércate nena, siente mi respiración
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
